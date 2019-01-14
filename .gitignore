@@ -3,6 +3,8 @@ node_module
 
 #logger
 logger
+npm-debug.log
+/*.env
 
 #keys
 dev.js
