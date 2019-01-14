@@ -1,0 +1,13 @@
+# dependencies
+node_module
+
+#logger
+logger
+
+#keys
+dev.js
+config/dev.js
+
+#test
+test
+jest.config.js
